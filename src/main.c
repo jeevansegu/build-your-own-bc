@@ -11,6 +11,9 @@ int main(int argc, char **argv)
     }
     (void)argv;
     // vector tokens, vector rpn
+    //-- use t_vec for vector of tokens and rpn
+
+    //-- initialize the vector of tokens and rpn using vec_init function
 
     // lexer
 
